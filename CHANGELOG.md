@@ -9,6 +9,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Nada
 
+## [1.3.0] - 2020-08-10
+
+### Added
+
+- Adicionado selos especiais de QUALIDADE às empresas/profissionais melhores avaliadas e às empresas com mais fãs - O selo é concedido a 1 unica empresa/profissional em cada categoria
+- As empresas/profissionais que possuem o selo de qualidade aparecem em posição de destaque em suas categorias. Exemplo: Na categoria Professor Universitário aparece em destaque: "GLAUCIO SCHEIBEL"
+
 ## [1.2.1] - 2020-08-09
 
 ### Fixed
