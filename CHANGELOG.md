@@ -5,7 +5,42 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.2] - 2015-08-08
+## [Unreleased]
+
+- Nada
+
+## [1.2.1] - 2020-08-09
+
+### Fixed
+
+- Distâncias sendo exibidas em milhas ao invés de quilometros para empresas localizadas no Brasil
+- Contadores de comentários aparecendo zerados na página individual da empresa, apesar de aparecerem corretamente na listagem de busca
+
+## [1.2.0] - 2020-08-09
+
+### Added
+
+- Podem ser configuradas unidades de medidas no padrão americano.
+- Empresários e Profissionais podem incluir suas próprias configurações de SEO, como palavras chaves, tags e títulos.
+- Contadores de comentários e avaliações
+
+### Changed
+
+- Interface de usuário padrão alterada para permitir uma melhor experiencia do usuário e observar padrões de acessibilidade
+
+## [1.1.1] - 2020-08-08
+
+- Erro na página da empresa com avaliações e comentários vazios
+- Erro que impedia usuário de deixar de ser fã das empresas.
+
+## [1.1.0] - 2020-08-08
+
+### Added
+
+- Clientes podem tornarem-se fãs de empresas, profissionais, produtos ou serviços clicando no botão favoritar
+- Buscas podem ser ordenadas por: proximidade, melhores avaliações, mais fãs...
+
+## [1.0.2] - 2020-08-07
 
 ### Fixed
 
