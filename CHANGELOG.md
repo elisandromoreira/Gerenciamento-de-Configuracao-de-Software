@@ -5,18 +5,35 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.2] - 2015-08-08
+
+### Fixed
+
+- Erros de Tradução.
+- Corrigido erro de importação de arquivos csv, o qual não identificava corretamente as colunas da tabela.
+- Corrigido o bug que corrigia o bug que mostrava o presídio quando o usuário buscava pelo termo políticos: Aparentemente tem mesmo alguns políticos no presídio
+
+## [1.0.1] - 2020-08-07
+
+### Fixed
+
+- Campo de busca não estava aparecendo quando o google maps estava em modo full screen
+- Corrigido bug que mostrava o presídio quando o usuário buscava pelo termo políticos
+
 ## [1.0.0] - 2020-08-06
 
 ### Added
 
 - Versão Pública Inicial do Guia Comercial Lançada.
 - Adicionados Pacotes Premium que permitem exibir com destaque empresas, profissionais, produtos e serviços
+- Produtos e serviços podem ser importados via arquivo csv
 - Adicionados Filtros por Bairro, Cidade, Estado e País
 - Adicionado Pixel do Facebook para remarketing
 - Adicionado Google analytics para empresas/profissionais avaliarem desempenho de suas páginas
 - Adicionado formulário para contato com empresas/profissionais
 - Adicionada localização via Google Maps.
 - Geolocalização e indicação de anunciantes por proximidade
+- Traduções adicionadas: en_US, es_ES, RU, FR, DE.
 
 ## [0.6.0] - 2020-08-04
 
